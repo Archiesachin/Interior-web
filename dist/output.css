@@ -886,10 +886,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-hero {
-  background-image: url(/assets/hero/bg.jpg);
-}
-
 .bg-fixed {
   background-attachment: fixed;
 }
@@ -1260,10 +1256,6 @@ h6 {
 
   .xl\:border-t {
     border-top-width: 1px;
-  }
-
-  .xl\:bg-grid {
-    background-image: url(/assets/grid.png);
   }
 
   .xl\:bg-center {

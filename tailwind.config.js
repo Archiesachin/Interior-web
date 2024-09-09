@@ -17,10 +17,10 @@ module.exports = {
       primary: 'DM Serif Display',
       secondary: 'Jost'
     },
-    backgroundImage:{
-      hero: 'url(/assets/hero/bg.jpg)',
-      grid: 'url(/assets/grid.png)',
-    },
+    // backgroundImage:{
+    //   hero: 'url(/assets/hero/bg.jpg)',
+    //   grid: 'url(/assets/grid.png)',
+    // },
     extend: {
       colors:{
         primary: {
