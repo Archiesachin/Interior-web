@@ -1051,7 +1051,7 @@ a:hover {
 }
 
 .bg-hero{
-  background-image: url(/assets/hero/bg.jpg);
+  background-image: url(../assets/hero/bg.jpg);
 }
 
 h1,
