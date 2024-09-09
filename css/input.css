@@ -14,6 +14,10 @@ a{
     @apply text-[20px] hover:text-accent transition-all duration-300;
 }
 
+.bg-hero{
+    background-image: url(/assets/hero/bg.jpg);
+}
+
 h1,
 h2,
 h3,
